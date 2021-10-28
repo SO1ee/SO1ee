@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAEuIri_HTM/TzkJzqMZedmW7Oqx1ON5CA/view?utm_content=DAEuIri_HTM&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+
 <h1 align="center">Hi 👋, I'm Soma Halder</h1>
 <h2 align="center">A passionate web developer</h2>
 
