@@ -1,4 +1,4 @@
-
+<img src="https://github.com/SO1ee/SO1ee/blob/main/Black%20Blue%20and%20Neon%20Pink%20Modern%20Tech%20Electronics%20and%20Technology%20X-Frame%20Banner.png">
 <h1 align="center">Hi 👋, I'm Soma Halder</h1>
 <h2 align="center">A passionate web developer</h2>
 
